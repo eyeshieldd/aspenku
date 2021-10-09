@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aspenku/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/aspenku/static/js/main.59df99a1.chunk.js",
+    "main.js.map": "/aspenku/static/js/main.59df99a1.chunk.js.map",
+    "runtime-main.js": "/aspenku/static/js/runtime-main.6d90be28.js",
+    "runtime-main.js.map": "/aspenku/static/js/runtime-main.6d90be28.js.map",
+    "static/css/2.8c5372c1.chunk.css": "/aspenku/static/css/2.8c5372c1.chunk.css",
+    "static/js/2.44b2c905.chunk.js": "/aspenku/static/js/2.44b2c905.chunk.js",
+    "static/js/2.44b2c905.chunk.js.map": "/aspenku/static/js/2.44b2c905.chunk.js.map",
+    "index.html": "/aspenku/index.html",
+    "static/css/2.8c5372c1.chunk.css.map": "/aspenku/static/css/2.8c5372c1.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/aspenku/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.44b2c905.chunk.js.LICENSE.txt": "/aspenku/static/js/2.44b2c905.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d90be28.js",
+    "static/css/2.8c5372c1.chunk.css",
+    "static/js/2.44b2c905.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.59df99a1.chunk.js"
+  ]
+}
