@@ -7,6 +7,7 @@
 - #### NPM (Package Manager)
 - #### BPJS
 - #### HTML
+- #### CSS
 
 ## How to run
 
