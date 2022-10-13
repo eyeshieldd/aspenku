@@ -5,6 +5,7 @@ import { Provider } from 'react-redux'
 import createStore from './store'
 import Routes from './Routes'
 
+# Ini juga komentar jadi tolong jangan di komentari lagi
 const App: FC = () => {
   const store = createStore()
 
